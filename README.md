@@ -11,3 +11,12 @@ Command panels
 Skript
 
 Thanks to @phumjaisim for amenu v1
+
+
+Format
+Amenu --> Country --> City / Subregion --> warps for that city/subregion
+
+File format:
+amenu - Houses the main section and main panel for all countries
+
+amenu<CODE> - Stores the country, city/subregion and their warps in 1 file
