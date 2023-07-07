@@ -1,0 +1,68 @@
+# MALAYSIA AMENU PANNEL
+
+panels:
+  amenu-my:
+    perm: default
+    rows: 6
+    title: 'Visting - City States- Malaysia'
+    commands:
+    - amenu-my
+    empty: gray_stained_glass_pane
+    item:
+        '4':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzU0YjkwNDFkZWE2ZGI2ZGI0NDc1MGYxMzg1YTc0M2FkZjY1Mzc2N2I0Yjg4MDJjYWQ0YzU4NWRkM2Y1YmU0NiJ9fX0=
+            name: '&f  '
+        '20':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5NGY3YjMwMjYxMmFjMzIzMWQ0MWYwZTZkNzhhMzA4MmRiM2JkNjY3ZDBhOWM1YmNmMTJjZWQ4Zjk0MDViYyJ9fX0=
+            name: '&f Penang  '
+        '22':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5NGY3YjMwMjYxMmFjMzIzMWQ0MWYwZTZkNzhhMzA4MmRiM2JkNjY3ZDBhOWM1YmNmMTJjZWQ4Zjk0MDViYyJ9fX0=
+            name: '&f Selangor  '
+        '24':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5NGY3YjMwMjYxMmFjMzIzMWQ0MWYwZTZkNzhhMzA4MmRiM2JkNjY3ZDBhOWM1YmNmMTJjZWQ4Zjk0MDViYyJ9fX0=
+            name: '&f Federal Territory'
+        '28':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5NGY3YjMwMjYxMmFjMzIzMWQ0MWYwZTZkNzhhMzA4MmRiM2JkNjY3ZDBhOWM1YmNmMTJjZWQ4Zjk0MDViYyJ9fX0=
+            name: '&f Sarawak '
+        '30':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5NGY3YjMwMjYxMmFjMzIzMWQ0MWYwZTZkNzhhMzA4MmRiM2JkNjY3ZDBhOWM1YmNmMTJjZWQ4Zjk0MDViYyJ9fX0=
+            name: '&f Perak'
+        '32':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5NGY3YjMwMjYxMmFjMzIzMWQ0MWYwZTZkNzhhMzA4MmRiM2JkNjY3ZDBhOWM1YmNmMTJjZWQ4Zjk0MDViYyJ9fX0=
+            name: '&f NAME HERE '
+        '34':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5NGY3YjMwMjYxMmFjMzIzMWQ0MWYwZTZkNzhhMzA4MmRiM2JkNjY3ZDBhOWM1YmNmMTJjZWQ4Zjk0MDViYyJ9fX0=
+            name: '&f NAME HERE '
+        '42':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5NGY3YjMwMjYxMmFjMzIzMWQ0MWYwZTZkNzhhMzA4MmRiM2JkNjY3ZDBhOWM1YmNmMTJjZWQ4Zjk0MDViYyJ9fX0=
+            name: '&f NAME HERE '
+        '40':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5NGY3YjMwMjYxMmFjMzIzMWQ0MWYwZTZkNzhhMzA4MmRiM2JkNjY3ZDBhOWM1YmNmMTJjZWQ4Zjk0MDViYyJ9fX0=
+            name: '&f NAME HERE '
+        '38':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5NGY3YjMwMjYxMmFjMzIzMWQ0MWYwZTZkNzhhMzA4MmRiM2JkNjY3ZDBhOWM1YmNmMTJjZWQ4Zjk0MDViYyJ9fX0=
+            name: '&f NAME HERE '
+        '53':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWRmNWMyZjg5M2JkM2Y4OWNhNDA3MDNkZWQzZTQyZGQwZmJkYmE2ZjY3NjhjODc4OWFmZGZmMWZhNzhiZjYifX19
+            name: '&f Close '
+            commands:
+            - 'cpc'
+
+
+# Menu standard for all sub citiy warp pages
+    amenu-my-Penang:
+    perm: default
+    rows: 1
+    title: 'Malaysia - Penang'
+    commands:
+    - amenu-my-Penang
+    empty: gray_stained_glass_pane
+    item:
+        '0':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzU0YjkwNDFkZWE2ZGI2ZGI0NDc1MGYxMzg1YTc0M2FkZjY1Mzc2N2I0Yjg4MDJjYWQ0YzU4NWRkM2Y1YmU0NiJ9fX0=
+            name: '&f  '
+        '1':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5NGY3YjMwMjYxMmFjMzIzMWQ0MWYwZTZkNzhhMzA4MmRiM2JkNjY3ZDBhOWM1YmNmMTJjZWQ4Zjk0MDViYyJ9fX0=
+            name: '&f my,georgeTown,acheh  '
+            command:
+            - warp my,georgeTown,acheh

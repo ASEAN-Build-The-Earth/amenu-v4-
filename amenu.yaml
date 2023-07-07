@@ -1,14 +1,53 @@
 panels:
-    template:
+  amenu:
     perm: admin
-    rows: '6'
-    title: '&8New Panel'
-    empty: AIR
+    rows: 6
+    title: 'Team ASEAN Server Visting Menu'
+    commands:
+    - amenu
+    empty: gray_stained_glass_pane
     item:
         '4':
-        material: COBBLESTONE
-        stack: 1
-        name: '&fClick Me!'
-        commands:
-        - msg= You clicked, the item!
-        - cpc
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjMxYTk5NGYyMDg0OWRjM2UzMWYwMWNkMzIzZTg5N2NhYTA3NWIwMTZiZDlmODVmZDg0ZjdlMGFmZTAxNGM2NSJ9fX0=
+            name: '&f Amenu v4.0.1!'
+        '20':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzU0YjkwNDFkZWE2ZGI2ZGI0NDc1MGYxMzg1YTc0M2FkZjY1Mzc2N2I0Yjg4MDJjYWQ0YzU4NWRkM2Y1YmU0NiJ9fX0=
+            name: 'Malaysia'
+            commands:
+            - 'open= amenu-my'
+
+        '22':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGI1ZWQxMWY3OTdmM2ZjNjFlYWY4ZGFmYjZiZjMyMzRkMzFiOTZhYjc1OTZiZDJkZjcyMmQyZWYzNDczYzI3In19fQ==
+            name: '&f Singapore '
+        '24':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmE3OTE2ZTRhODUyZjdlNmYzZjNkZTE5YzdmYjU3Njg2YTM3YmNlODM0YmQ1NDY4NGE3ZGJlZjhkNTNmYiJ9fX0=
+            name: '&f Thailand '
+        '28':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5NGY3YjMwMjYxMmFjMzIzMWQ0MWYwZTZkNzhhMzA4MmRiM2JkNjY3ZDBhOWM1YmNmMTJjZWQ4Zjk0MDViYyJ9fX0=
+            name: '&f Vietnam '
+        '30':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWM4YjdjN2ZiMDhhYjg5NDc4MTJiYjlkMTRkYTA0OWVkMmQ1MWFkOGNiOTMyYjM5MmMyMjY2YjI1N2FkYzJhYyJ9fX0=
+            name: '&f Indonesia '
+        '32':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFiY2RiMzU1NGZmMzE3NTk4MjNhMTJiOWM4YjkxODZjZDI5NTQ0ZDE4NDE5ZGNlNTUxY2Y3ODNhZDAwNmNkZiJ9fX0=
+            name: '&f Philippines '
+        '34':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTZjNTI2ZjlhMzM1YjYyZmViZTRlZjM3MzRiZTA2MGU5YTQ5MDZhYjE3OTJlMjI3OGI4OThhZmNmZDUxNWVhOCJ9fX0=
+            name: '&f Cambodia'
+        '42':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5NGY3YjMwMjYxMmFjMzIzMWQ0MWYwZTZkNzhhMzA4MmRiM2JkNjY3ZDBhOWM1YmNmMTJjZWQ4Zjk0MDViYyJ9fX0=
+            name: '&f NAME HERE '
+        '40':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5NGY3YjMwMjYxMmFjMzIzMWQ0MWYwZTZkNzhhMzA4MmRiM2JkNjY3ZDBhOWM1YmNmMTJjZWQ4Zjk0MDViYyJ9fX0=
+            name: '&f NAME HERE '
+        '38':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5NGY3YjMwMjYxMmFjMzIzMWQ0MWYwZTZkNzhhMzA4MmRiM2JkNjY3ZDBhOWM1YmNmMTJjZWQ4Zjk0MDViYyJ9fX0=
+            name: '&f NAME HERE '
+        '48':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk5NGY3YjMwMjYxMmFjMzIzMWQ0MWYwZTZkNzhhMzA4MmRiM2JkNjY3ZDBhOWM1YmNmMTJjZWQ4Zjk0MDViYyJ9fX0=
+            name: '&f NAME HERE '
+        '53':
+            material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWRmNWMyZjg5M2JkM2Y4OWNhNDA3MDNkZWQzZTQyZGQwZmJkYmE2ZjY3NjhjODc4OWFmZGZmMWZhNzhiZjYifX19
+            name: '&f Close '
+            commands:
+            - 'cpc'
